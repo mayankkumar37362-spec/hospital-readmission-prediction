@@ -160,9 +160,8 @@ Dashboard includes:
   
 <img width="1302" height="731" alt="dashboard" src="https://github.com/user-attachments/assets/a07bbc0c-ee57-44cb-a6fb-59c936afda5d" />
 
-```
-📷 dashboard.png
-```
+
+
 
 ---
 
