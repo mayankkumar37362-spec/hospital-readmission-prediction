@@ -1,4 +1,3 @@
-<img width="1302" height="731" alt="dashboard" src="https://github.com/user-attachments/assets/a07bbc0c-ee57-44cb-a6fb-59c936afda5d" />
 # 🏥 Hospital Readmission Prediction & Healthcare Analytics
 
 Predicting 30-day hospital readmissions using Machine Learning and Healthcare Analytics to support early risk identification, improve patient outcomes, and optimize hospital resource utilization.
@@ -158,8 +157,8 @@ Dashboard includes:
 - Patient Age Distribution
 - Average Length of Stay by Diagnosis Category
 - Interactive Filters
-
-*(Dashboard preview can be added below.)*
+  
+<img width="1302" height="731" alt="dashboard" src="https://github.com/user-attachments/assets/a07bbc0c-ee57-44cb-a6fb-59c936afda5d" />
 
 ```
 📷 dashboard.png
